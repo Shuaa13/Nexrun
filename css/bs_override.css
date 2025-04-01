@@ -1,0 +1,36 @@
+
+.btn-success {
+    background-color: #1BCA3D !important;
+    border-color: #1BCA3D !important;
+}
+
+.text-success {
+    color: #1BCA3D !important;
+}
+
+.text-lime {
+    color: #1BCA3D !important;
+}
+
+.border-lime {
+    border: 1px solid #1BCA3D !important;
+}
+
+.form-control:focus, .form-select:focus, .form-check-input:checked {
+    border-color: #1BCA3D !important;
+    box-shadow: 0 0 0 0.25rem #1BCA3D80 !important;
+}
+
+.form-check-input:checked {
+    background-color: #1BCA3D !important;
+    box-shadow: none !important;
+}
+
+.dropdown-item:hover {
+    background-color: #1BCA3D !important;
+    color: #FFFFFF !important;
+}
+
+.dropdown-item:active {
+    background-color: #1BCA3D !important;
+}

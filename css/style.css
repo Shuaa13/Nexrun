@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../resources/fonts/Roboto-Regular.ttf');
+}
+
+body {
+    font-family: 'Roboto' !important;
+}
+
+
+.bg-white-op {
+    background-color: rgba(255,255,255,0.95) !important;
+}
+
+.center {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
